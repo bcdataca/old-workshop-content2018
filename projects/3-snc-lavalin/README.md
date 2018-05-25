@@ -30,3 +30,21 @@ may prove tricky in that spatial time series data sometimes pose unique
 challenges from the "typical" data science point of view. We anticipate that
 tools like Latent Dirichlet Allocation or Kalman filters may prove useful this
 project group.
+
+Check out:
+
+* [Wikipedia](https://www.wikiwand.com/en/Automatic_identification_system#/Detailed_description:_Class_A_units)
+  for a description of the columns in the data.
+* [aishub](http://www.aishub.net/stations): it's possible they have *more* data
+  if necessary.
+* [marinetraffic](https://www.marinetraffic.com/en/p/ais-historical-data): it's
+  possible they have historical AIS data available --- especially and including
+  [for research](https://www.marinetraffic.com/en/p/ais-for-research).
+
+Also check out this possibly related paper by Luke Bornn where paths of NBA
+  players were clustered and analyzed:
+  [Possession Sketches: Mapping NBA Strategies](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1624.pdf). A
+  final useful tool may be
+  [Kalman filters](https://www.wikiwand.com/en/Fast_Kalman_filter), used for
+  interpolation of noisy data where position and speed matters.
+
