@@ -38,7 +38,7 @@ Check out:
 * [aishub](http://www.aishub.net/stations): it's possible they have *more* data
   if necessary.
 * [marinetraffic](https://www.marinetraffic.com/en/p/ais-historical-data): it's
-  possible they have historical AIS data available --- especially and including
+  possible they have historical AIS data available - especially and including
   [for research](https://www.marinetraffic.com/en/p/ais-for-research).
 
 Also check out this possibly related paper by Luke Bornn where paths of NBA

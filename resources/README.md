@@ -19,6 +19,9 @@ First, a list of documentation for major packages:
 * [PyTorch](https://pytorch.org/) for dynamically constructed neural networks in Python. Well documented.
 * [keras](https://keras.io/) for neural networks built on Tensorflow or Theano. Visit the keras blog for myriad tutorials. Documentation is only so-so.
 
+Also, a long list of [useful Python-related
+tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78).
+
 ### NLP
 
 * [`nltk`](https://www.nltk.org/) and [nltk book](https://www.nltk.org/book/) (there's a whole [Github organization](https://github.com/nltk) for it)
@@ -28,15 +31,18 @@ First, a list of documentation for major packages:
   [`sklearn`](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 * Tutorial for [creating a chat bot](https://www.youtube.com/watch?v=dvOnYLDg8_Y) with deep
   learning and tensorflow in Python
+* [PyTextRank](https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5)
 
 ### Other
 
 * [Image hashing](https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+* [keras cheatsheet](https://becominghuman.ai/keras-cheat-sheet-neural-networks-in-python-738c0d170c2e)
 
-## GitHub
+## Computing
 
-* [Documentation](https://git-scm.com/doc)
+* [Git documentation](https://git-scm.com/doc)
 * [git and bash tutorial](https://github.com/bcdataca/workshop-content/blob/master/0-iam-short-course/notes/day-1.ipynb) by Patrick Walls
+* [Accessing a GPU on Google CoLab](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604). Another one [here](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad). 
 
 ## Tutorials
 
