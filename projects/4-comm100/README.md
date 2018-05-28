@@ -32,3 +32,13 @@ Users who are familiar with computational linguistics and its tools (*e.g.,*
 of text data will be well-suited for tackling this project. We anticipate that
 familiarity with topic models and related machine learning tools would be a
 bonus.
+
+
+### Resource crumbs
+
+* [Reasoning with Neural Tensor Networks for Knowledge Base Completion](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf); or [see here](https://github.com/GauravBh1010tt/DeepLearn?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) for a repository from which that was pulled. 
+* Tutorial for
+  [creating a chat bot](https://www.youtube.com/watch?v=dvOnYLDg8_Y) with deep
+  learning and tensorflow in Python
+* [PyTextRank](https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5)
+* [GluonNLP](https://github.com/dmlc/gluon-nlp?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) "is a toolkit that enables easy text preprocessing, datasets loading and neural models building to help you speed up your Natural Language Processing (NLP) research". 

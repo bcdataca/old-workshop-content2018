@@ -42,9 +42,8 @@ Check out:
   [for research](https://www.marinetraffic.com/en/p/ais-for-research).
 
 Also check out this possibly related paper by Luke Bornn where paths of NBA
-  players were clustered and analyzed:
-  [Possession Sketches: Mapping NBA Strategies](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1624.pdf). A
-  final useful tool may be
-  [Kalman filters](https://www.wikiwand.com/en/Fast_Kalman_filter), used for
-  interpolation of noisy data where position and speed matters.
-
+  players were clustered and analyzed: [Possession Sketches: Mapping NBA
+  Strategies](http://www.sloansportsconference.com/wp-content/uploads/2017/02/1624.pdf). A
+  final useful tool may be [Kalman
+  filters](https://www.wikiwand.com/en/Fast_Kalman_filter), used for
+  interpolation of noisy data where position and speed matters. Something to this end is done in [Extended Kalman Filter for State Estimation and Trajectory Prediction of a Moving Object Detected by an Unmanned Aerial Vehicle](https://ieeexplore.ieee.org/document/4282823/). 
