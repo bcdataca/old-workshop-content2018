@@ -2,9 +2,8 @@
 
 ## General
 
-My notes on each project [can be found
-here](https://docs.google.com/document/d/1mtD50bYEMRR9SmBprc7Y36uW6ZlmNNlUzb6MNFooPvw/edit?usp=sharing),
-for better or for worse.
+Data team notes on each project [can be found
+here](https://docs.google.com/document/d/1mtD50bYEMRR9SmBprc7Y36uW6ZlmNNlUzb6MNFooPvw/edit?usp=sharing) (for better or for worse).
 
 [Last year's repository](https://github.com/bcdataca/workshop-content) is also available, which contains a list of resources and tutorials (from the first week of the workshop). 
 
@@ -32,6 +31,7 @@ tutorials](https://medium.com/machine-learning-in-practice/over-150-of-the-best-
 * Tutorial for [creating a chat bot](https://www.youtube.com/watch?v=dvOnYLDg8_Y) with deep
   learning and tensorflow in Python
 * [PyTextRank](https://medium.com/@aneesha/beyond-bag-of-words-using-pytextrank-to-find-phrases-and-summarize-text-f736fa3773c5)
+* A tutorial by [Dhananjay Bhaskar](http://www.dhananjaybhaskar.com/) (formerly UBC, now Brown) on [using nltk to analyze movie ratings](https://github.com/ubcs3/2016-Fall/blob/master/2016-11-25-notes.ipynb). 
 
 ### Other
 
